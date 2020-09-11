@@ -4,12 +4,26 @@ In this challenge, I took on the roll of an analyst who wanted to find some impo
 
 Below are the screen prints of the important answers to the above questions.
 
-How many users made purchases.
+How many users made purchases?
+![num_players](/images/num_players.png)
 
+What is the purchasing breakdown?
+![purch_info](/images/purchasing_info.png)
 
+What is the simple gender demographics?
+![gender_breakdown](/images/gender_breakdown.png)
 
-Week 4 homework for bootcamp. 
+What is the gender demographics with purchasing information?
+![gender_breakdown_values](/images/gender_breakdown_values.png)
 
--we are to look at the breakdown of a sample game's data and draw conclusions.
+What is the simple age demographics?
+![num_players](/images/num_players.png)
 
--questions include but are not limited to: which users are the top spenders, what games are purchased the most, and what are the age breakdowns of users
+What is the age demographics with purchasing information?
+![num_players](/images/num_players.png)
+
+What are the most popular items?
+![num_players](/images/num_players.png)
+
+What are the most profitable items?
+![num_players](/images/num_players.png)
