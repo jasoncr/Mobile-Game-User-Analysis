@@ -4,26 +4,27 @@ In this challenge, I took on the roll of an analyst who wanted to find some impo
 
 Below are the screen prints of the important answers to the above questions.
 
-How many users made purchases?
+## How many users made purchases?
+
 ![num_players](/images/num_players.png)
 
-What is the purchasing breakdown?
+## What is the purchasing breakdown?
 ![purch_info](/images/purchasing_info.png)
 
-What is the simple gender demographics?
+## What is the simple gender demographics?
 ![gender_breakdown](/images/gender_breakdown.png)
 
-What is the gender demographics with purchasing information?
+## What is the gender demographics with purchasing information?
 ![gender_breakdown_values](/images/gender_breakdown_values.png)
 
-What is the simple age demographics?
-![num_players](/images/num_players.png)
+## What is the simple age demographics?
+![age_breakdown](/images/age_breakdown.png)
 
-What is the age demographics with purchasing information?
-![num_players](/images/num_players.png)
+## What is the age demographics with purchasing information?
+![age_breakdown_values](/images/age_breakdown_values.png)
 
-What are the most popular items?
-![num_players](/images/num_players.png)
+## What are the most popular items?
+![most_pop](/images/most_pop.png)
 
-What are the most profitable items?
-![num_players](/images/num_players.png)
+## What are the most profitable items?
+![most_profit](/images/most_profit.png)
