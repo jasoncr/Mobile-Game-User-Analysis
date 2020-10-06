@@ -1,4 +1,4 @@
-# pandas-challenge
+# Mobile-Game-User-Analysis
 
 In this challenge, I took on the roll of an analyst who wanted to find some important insights about the users who spend money on their game. In order to run the analysis, I read the purchase data in as a .csv and used Python and Pandas in a Jupyter Notebook to answer my questions. Those questions included simple ones like how many users made purchases, to aggregating purchasing information, to a breakdown of demographics or purchasers, to age breakdowns, the most popular items, and the most profitable items. 
 
